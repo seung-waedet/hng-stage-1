@@ -1,0 +1,10 @@
+{
+    "info": [
+        {
+            "slackUsername": "Kaladin",
+            "backend": true,
+            "age": 19,
+            "bio": "I am an aspiring backend developer."
+        }
+    ]
+}
